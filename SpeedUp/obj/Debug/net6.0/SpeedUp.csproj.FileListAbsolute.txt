@@ -1,0 +1,15 @@
+D:\Egyetem\Eva\SpeedUp\SpeedUp\bin\Debug\net6.0\SpeedUp.exe
+D:\Egyetem\Eva\SpeedUp\SpeedUp\bin\Debug\net6.0\SpeedUp.deps.json
+D:\Egyetem\Eva\SpeedUp\SpeedUp\bin\Debug\net6.0\SpeedUp.runtimeconfig.json
+D:\Egyetem\Eva\SpeedUp\SpeedUp\bin\Debug\net6.0\SpeedUp.dll
+D:\Egyetem\Eva\SpeedUp\SpeedUp\bin\Debug\net6.0\SpeedUp.pdb
+D:\Egyetem\Eva\SpeedUp\SpeedUp\obj\Debug\net6.0\SpeedUp.csproj.AssemblyReference.cache
+D:\Egyetem\Eva\SpeedUp\SpeedUp\obj\Debug\net6.0\SpeedUp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Egyetem\Eva\SpeedUp\SpeedUp\obj\Debug\net6.0\SpeedUp.AssemblyInfoInputs.cache
+D:\Egyetem\Eva\SpeedUp\SpeedUp\obj\Debug\net6.0\SpeedUp.AssemblyInfo.cs
+D:\Egyetem\Eva\SpeedUp\SpeedUp\obj\Debug\net6.0\SpeedUp.csproj.CoreCompileInputs.cache
+D:\Egyetem\Eva\SpeedUp\SpeedUp\obj\Debug\net6.0\SpeedUp.dll
+D:\Egyetem\Eva\SpeedUp\SpeedUp\obj\Debug\net6.0\refint\SpeedUp.dll
+D:\Egyetem\Eva\SpeedUp\SpeedUp\obj\Debug\net6.0\SpeedUp.pdb
+D:\Egyetem\Eva\SpeedUp\SpeedUp\obj\Debug\net6.0\SpeedUp.genruntimeconfig.cache
+D:\Egyetem\Eva\SpeedUp\SpeedUp\obj\Debug\net6.0\ref\SpeedUp.dll

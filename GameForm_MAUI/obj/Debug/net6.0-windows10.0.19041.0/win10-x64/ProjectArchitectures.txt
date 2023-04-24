@@ -1,0 +1,1 @@
+D:\Egyetem\Eva\SpeedUp\GameForm_MAUI\GameForm_MAUI.csproj;x64

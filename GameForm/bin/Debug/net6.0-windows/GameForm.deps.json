@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "GameForm/1.0.0": {
+        "dependencies": {
+          "SpeedUp": "1.0.0"
+        },
+        "runtime": {
+          "GameForm.dll": {}
+        }
+      },
+      "SpeedUp/1.0.0": {
+        "runtime": {
+          "SpeedUp.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "GameForm/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SpeedUp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
